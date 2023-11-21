@@ -1,0 +1,225 @@
+body {
+    background-color: #fff1f5;
+}
+header {
+    background-color: #b3657c;
+    height: 147px;
+    width: 100%;
+}
+
+#imagem {
+    background-image: url(imagem.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Goudy Old Style';
+    text-align: center;
+    font-weight: lighter;
+}
+
+#title01 {
+    padding-top: 5%;
+    font-size: 300%;
+    color: #9e3c4e;
+}
+
+#textp1 {
+    font-family: 'Helvetica';
+    text-align: center;
+    padding-top: 7.5%;
+    color: #4a2223;
+    font-size: 150%;
+}
+
+#button {
+    background-color:#b3657c;
+    color:#fff1f5;
+    width: 10%;
+    height: 50px;
+    border-radius: 5px;
+    align-content: center;
+    font-size: 100%;
+    text-align: center;
+    border-color: #b3657c;
+    font-family: 'Calibri';
+}
+
+#sectionbutton {
+    padding-top: 10%;
+    padding-bottom: 15%;
+}
+
+#gatoflor {
+    background-image: url(gatoflor.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+#like {
+    height: 150px;
+    padding-top: 100px;
+    font-size: 250%;
+    color: #9e3c4e;
+}
+
+.divsb {
+    width: 49.8%;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    height: 70vh;
+}
+
+#divbutton01 {
+    background-color: transparent;
+}
+
+#divbutton02 {
+    background-color: transparent;
+}
+
+.buttons {
+    border-radius: 10px;
+    background-color: #4a2223;
+    color:#fff1f5;
+    font-size: 150%;
+    font-family: 'Calibri';
+}
+
+#button011 {
+    position: absolute;
+    left:25%;
+    width: 50%;
+    height: 60px;
+}
+
+#button012 {
+    position: absolute;
+    left:25%;
+    width: 50%;
+    height: 60px;
+}
+
+#button021 {
+    position: absolute;
+    top: 110px;
+    width: 50%;
+    height: 60px;
+    left: 25%
+}
+
+#button022 {
+    position: absolute;
+    top: 110px;
+    width: 50%;
+    height: 60px;
+    left: 25%
+}
+
+#button031 {
+    position: absolute;
+    top: 220px;
+    width: 50%;
+    height: 60px;
+    left: 25%
+}
+
+#button032 {
+    position: absolute;
+    top: 220px;
+    width: 50%;
+    height: 60px;
+    left: 25%
+}
+
+#button041 {
+    position: absolute;
+    top: 330px;
+    width: 50%;
+    height: 60px;
+    left: 25%
+}
+
+#button042 {
+    position: absolute;
+    top: 330px;
+    width: 50%;
+    height: 60px;
+    left: 25%
+}
+
+.sectionwork {
+    position: absolute;
+    top: 420vh;
+    width: 100%;
+}
+
+.circle {
+    border-radius: 50%;
+    height: 30vh;
+    width: 30vh;
+}
+
+#campoflor {
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.work {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    height: 60vh;
+}
+
+#titlework {
+    height: 150px;
+    padding-top: 100px;
+    font-size: 200%;
+    color: #261f1b;
+    position: relative;
+    left: 1px;
+}
+
+h2 {
+    font-size: 175%;
+    font-family: 'Arial';
+}
+
+.textp2 {
+    font-size: 150%;
+    width: 80%;
+    left: 10%;
+    position: relative;
+    text-align: center;
+    font-family: 'Helvetica';
+}
+
+#work01 {
+    background-color: transparent;
+}
+
+#work02 {
+    background-color: transparent;
+}
+
+#work03 {
+    background-color: transparent;
+}
+
+footer {
+    text-align: center;
+    background-color:#9e3c4e;
+    width: 100%;
+}
